@@ -1,0 +1,7 @@
+public class G4 {
+    public static void main(String[] args){
+        String s = "";
+
+        System.out.println(s.indexOf('a'));//-1
+    }
+}
